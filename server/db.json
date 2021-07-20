@@ -1,0 +1,52 @@
+{
+  "devices": [
+    {
+      "label": "One Plus 8",
+      "os": "android",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 5 is a flagship phone...",
+      "id": 2
+    },
+    {
+      "label": "IPhone 12",
+      "os": "ios",
+      "price": 1200,
+      "rate": 3,
+      "memory": 3000,
+      "desc": "",
+      "id": 23
+    },
+    {
+      "label": "IPhone 7 +",
+      "os": "ios",
+      "price": 700,
+      "rate": 3,
+      "memory": 3000,
+      "desc": "",
+      "id": 6
+    },
+    {
+      "label": "Notebook",
+      "price": 400,
+      "os": "others",
+      "id": 24
+    },
+    {
+      "label": "iphone 6",
+      "price": 400,
+      "os": "ios",
+      "id": 25
+    },
+    {
+      "label": "Samsung A52",
+      "price": 345,
+      "os": "android",
+      "id": 26
+    }
+  ],
+  "login": {
+    "token": "efoiwejo32r32-fake-token"
+  }
+}
